@@ -1,7 +1,7 @@
 let imgs = [];
 let agents = [];
 const COUNT = 50;
-const SIZE = 30;
+const SIZE = 50;
 
 function preload() {
   imgs.push(loadImage('BF.png'));
